@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Bharat Singh. I'm a software developer with 2 years of experience in React, Node.js, and PHP. I am now transitioning my career into Java Full Stack Development, focusing on technologies like Core Java, Spring, and Hibernate to build scalable backend systems and modern web applications.
+Hi, my name is Bharat Singh. I'm a software developer with 2 years of professional experience in building web applications using ReactJS, NodeJS, and PHP. I am now transitioning my career into full-stack Java development, focusing on technologies such as Core Java, Spring Framework, Hibernate, and Angular. The goal is to leverage my existing frontend expertise while deepening my backend skills in Java to build robust, scalable, and enterprise-grade full-stack applications.
 
 
 ## 🌐 Socials:
